@@ -1,0 +1,2 @@
+include ':app', ':bitmaputils'
+rootProject.name='BitmapHelper'
